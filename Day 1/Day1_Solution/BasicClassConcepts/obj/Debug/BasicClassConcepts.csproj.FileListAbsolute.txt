@@ -1,0 +1,7 @@
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 1\Day1_Solution\BasicClassConcepts\obj\Debug\BasicClassConcepts.csprojAssemblyReference.cache
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 1\Day1_Solution\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.CoreCompileInputs.cache
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 1\Day1_Solution\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe.config
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 1\Day1_Solution\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 1\Day1_Solution\BasicClassConcepts\bin\Debug\BasicClassConcepts.pdb
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 1\Day1_Solution\BasicClassConcepts\obj\Debug\BasicClassConcepts.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 1\Day1_Solution\BasicClassConcepts\obj\Debug\BasicClassConcepts.pdb
