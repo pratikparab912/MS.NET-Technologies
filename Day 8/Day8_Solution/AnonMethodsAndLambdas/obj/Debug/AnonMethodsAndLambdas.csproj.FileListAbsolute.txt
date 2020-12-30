@@ -1,0 +1,7 @@
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe.config
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.pdb
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csprojAssemblyReference.cache
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csproj.CoreCompileInputs.cache
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.pdb

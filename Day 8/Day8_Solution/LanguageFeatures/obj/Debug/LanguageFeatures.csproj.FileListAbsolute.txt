@@ -1,0 +1,6 @@
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\LanguageFeatures\bin\Debug\LanguageFeatures.exe.config
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\LanguageFeatures\bin\Debug\LanguageFeatures.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\LanguageFeatures\bin\Debug\LanguageFeatures.pdb
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.CoreCompileInputs.cache
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\LanguageFeatures\obj\Debug\LanguageFeatures.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 8\Day8_Solution\LanguageFeatures\obj\Debug\LanguageFeatures.pdb
