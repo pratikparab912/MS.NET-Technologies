@@ -1,0 +1,7 @@
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 6\Day6_Solution\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 6\Day6_Solution\DelegatesExample\bin\Debug\DelegatesExample.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 6\Day6_Solution\DelegatesExample\bin\Debug\DelegatesExample.pdb
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 6\Day6_Solution\DelegatesExample\obj\Debug\DelegatesExample.csprojAssemblyReference.cache
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 6\Day6_Solution\DelegatesExample\obj\Debug\DelegatesExample.csproj.CoreCompileInputs.cache
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 6\Day6_Solution\DelegatesExample\obj\Debug\DelegatesExample.exe
+C:\DAC 2020\Online Session\Vikram Sulakhe\MS.NET Technologies\Day 6\Day6_Solution\DelegatesExample\obj\Debug\DelegatesExample.pdb
