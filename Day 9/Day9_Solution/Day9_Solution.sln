@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExample", "LinqExample\LinqExample.csproj", "{906D8207-DEBB-4F52-9E15-A1816563F114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCodeWithDelegates1", "AsyncCodeWithDelegates1\AsyncCodeWithDelegates1.csproj", "{A9339D70-0E5A-4681-ACE5-19F1BB92522D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906D8207-DEBB-4F52-9E15-A1816563F114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906D8207-DEBB-4F52-9E15-A1816563F114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906D8207-DEBB-4F52-9E15-A1816563F114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906D8207-DEBB-4F52-9E15-A1816563F114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9339D70-0E5A-4681-ACE5-19F1BB92522D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9339D70-0E5A-4681-ACE5-19F1BB92522D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9339D70-0E5A-4681-ACE5-19F1BB92522D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9339D70-0E5A-4681-ACE5-19F1BB92522D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2C42D6-3E16-4E0E-8E09-B13044B3BC23}
+	EndGlobalSection
+EndGlobal
